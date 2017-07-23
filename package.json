@@ -1,0 +1,22 @@
+{
+  "name": "try2",
+  "version": "1.0.0",
+  "description": "Another try",
+  "main": "index.js",
+  "author": "Aditya Raj",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-pug": "^3.3.0",
+    "gulp-uglify": "^3.0.0"
+  },
+  "dependencies": {
+    "bootstrap-sass": "^3.3.7",
+    "font-awesome-sass": "^4.7.0",
+    "gulp-ruby-sass": "^2.1.1",
+    "jquery": "^3.2.1",
+    "pump": "^1.0.2"
+  }
+}
